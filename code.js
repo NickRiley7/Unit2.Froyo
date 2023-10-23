@@ -1,5 +1,5 @@
 const userInputString = prompt(
-    "Pick a flavor.", "Vanilla, Strawberry, Coffee,"
+    "Please enter some froyo flavors seperated by commas,"
 );
 
 const stringArray = userInputString.split(",");
